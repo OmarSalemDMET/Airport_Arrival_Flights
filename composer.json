@@ -1,0 +1,10 @@
+{
+    "name": "gucdmet/phprojs",
+    "description": "\"PhpSpreadsheet is a powerful PHP library for working with spreadsheet files. It allows you to read, write, and manipulate Excel files (XLSX, XLS, and CSV) seamlessly. Whether you're building an application that generates reports, imports data, or performs calculations, PhpSpreadsheet has you covered.\"",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
