@@ -123,10 +123,6 @@ Airport_Arrival_Flights/
 - **Excel File:**  
   Ensure that `arrivals.xls` is present in the project root for the conversion functions to work properly.
 
-## License
-
-*This project is currently not licensed.*  
-If you wish to apply an open-source license (e.g., MIT License), add a LICENSE file to the repository.
 
 ## Acknowledgements
 
